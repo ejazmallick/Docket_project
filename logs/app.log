@@ -1,0 +1,66 @@
+2026-05-18 10:12:38,338 | INFO | ============================================================
+2026-05-18 10:12:38,339 | INFO | Starting Docket PDF Stamping Utility
+2026-05-18 10:12:38,339 | INFO | ============================================================
+2026-05-18 10:12:38,366 | INFO | Stamp validated successfully: StampTNH.png
+2026-05-18 10:12:38,368 | INFO | Total PDF files found: 2
+2026-05-18 10:12:38,368 | INFO | Processing: AP Automation_Md Ejaz Mallick.pdf
+2026-05-18 10:12:39,051 | INFO | Stamped successfully: C:\Users\Md Ejaz Mallick\Desktop\docket_project\Stamped Docs\AP Automation_Md Ejaz Mallick_stamped.pdf
+2026-05-18 10:12:39,051 | INFO | SUCCESS: AP Automation_Md Ejaz Mallick.pdf
+2026-05-18 10:12:39,052 | INFO | Processing: Healthcare Usecase_Md Ejaz Mallick.pdf
+2026-05-18 10:12:39,662 | INFO | Stamped successfully: C:\Users\Md Ejaz Mallick\Desktop\docket_project\Stamped Docs\Healthcare Usecase_Md Ejaz Mallick_stamped.pdf
+2026-05-18 10:12:39,662 | INFO | SUCCESS: Healthcare Usecase_Md Ejaz Mallick.pdf
+2026-05-18 10:12:39,705 | INFO | Excel report generated: C:\Users\Md Ejaz Mallick\Desktop\docket_project\reports\stamping_report.xlsx
+2026-05-18 10:12:39,705 | INFO | ============================================================
+2026-05-18 10:12:39,705 | INFO | Execution Summary
+2026-05-18 10:12:39,705 | INFO | ============================================================
+2026-05-18 10:12:39,706 | INFO | Total files found        : 2
+2026-05-18 10:12:39,706 | INFO | Successfully stamped     : 2
+2026-05-18 10:12:39,706 | INFO | Failed files             : 0
+2026-05-18 10:12:39,706 | INFO | Output folder            : C:\Users\Md Ejaz Mallick\Desktop\docket_project\Stamped Docs
+2026-05-18 10:12:39,706 | INFO | Excel report             : C:\Users\Md Ejaz Mallick\Desktop\docket_project\reports\stamping_report.xlsx
+2026-05-18 10:12:39,706 | INFO | Processing completed successfully.
+2026-05-18 10:12:39,706 | INFO | ============================================================
+2026-05-18 10:15:35,023 | INFO | ============================================================
+2026-05-18 10:15:35,024 | INFO | Starting Docket PDF Stamping Utility
+2026-05-18 10:15:35,024 | INFO | ============================================================
+2026-05-18 10:15:35,040 | INFO | Stamp validated successfully: StampTNH.png
+2026-05-18 10:15:35,040 | INFO | Total PDF files found: 2
+2026-05-18 10:15:35,040 | INFO | Processing: AP Automation_Md Ejaz Mallick.pdf
+2026-05-18 10:15:35,768 | INFO | Stamped successfully: C:\Users\Md Ejaz Mallick\Desktop\docket_project\Stamped Docs\AP Automation_Md Ejaz Mallick_stamped.pdf
+2026-05-18 10:15:35,768 | INFO | SUCCESS: AP Automation_Md Ejaz Mallick.pdf
+2026-05-18 10:15:35,768 | INFO | Processing: Healthcare Usecase_Md Ejaz Mallick.pdf
+2026-05-18 10:15:36,424 | INFO | Stamped successfully: C:\Users\Md Ejaz Mallick\Desktop\docket_project\Stamped Docs\Healthcare Usecase_Md Ejaz Mallick_stamped.pdf
+2026-05-18 10:15:36,425 | INFO | SUCCESS: Healthcare Usecase_Md Ejaz Mallick.pdf
+2026-05-18 10:15:36,453 | INFO | Excel report generated: C:\Users\Md Ejaz Mallick\Desktop\docket_project\reports\stamping_report.xlsx
+2026-05-18 10:15:36,453 | INFO | ============================================================
+2026-05-18 10:15:36,453 | INFO | Execution Summary
+2026-05-18 10:15:36,453 | INFO | ============================================================
+2026-05-18 10:15:36,453 | INFO | Total files found        : 2
+2026-05-18 10:15:36,453 | INFO | Successfully stamped     : 2
+2026-05-18 10:15:36,454 | INFO | Failed files             : 0
+2026-05-18 10:15:36,454 | INFO | Output folder            : C:\Users\Md Ejaz Mallick\Desktop\docket_project\Stamped Docs
+2026-05-18 10:15:36,454 | INFO | Excel report             : C:\Users\Md Ejaz Mallick\Desktop\docket_project\reports\stamping_report.xlsx
+2026-05-18 10:15:36,454 | INFO | Processing completed successfully.
+2026-05-18 10:15:36,454 | INFO | ============================================================
+2026-05-18 10:15:54,520 | INFO | ============================================================
+2026-05-18 10:15:54,522 | INFO | Starting Docket PDF Stamping Utility
+2026-05-18 10:15:54,522 | INFO | ============================================================
+2026-05-18 10:15:54,530 | INFO | Stamp validated successfully: StampTNH.png
+2026-05-18 10:15:54,531 | INFO | Total PDF files found: 2
+2026-05-18 10:15:54,531 | INFO | Processing: AP Automation_Md Ejaz Mallick.pdf
+2026-05-18 10:15:55,188 | INFO | Stamped successfully: C:\Users\Md Ejaz Mallick\Desktop\docket_project\Stamped Docs\AP Automation_Md Ejaz Mallick_stamped.pdf
+2026-05-18 10:15:55,189 | INFO | SUCCESS: AP Automation_Md Ejaz Mallick.pdf
+2026-05-18 10:15:55,189 | INFO | Processing: Healthcare Usecase_Md Ejaz Mallick.pdf
+2026-05-18 10:15:55,806 | INFO | Stamped successfully: C:\Users\Md Ejaz Mallick\Desktop\docket_project\Stamped Docs\Healthcare Usecase_Md Ejaz Mallick_stamped.pdf
+2026-05-18 10:15:55,807 | INFO | SUCCESS: Healthcare Usecase_Md Ejaz Mallick.pdf
+2026-05-18 10:15:55,836 | INFO | Excel report generated: C:\Users\Md Ejaz Mallick\Desktop\docket_project\reports\stamping_report.xlsx
+2026-05-18 10:15:55,836 | INFO | ============================================================
+2026-05-18 10:15:55,836 | INFO | Execution Summary
+2026-05-18 10:15:55,836 | INFO | ============================================================
+2026-05-18 10:15:55,837 | INFO | Total files found        : 2
+2026-05-18 10:15:55,837 | INFO | Successfully stamped     : 2
+2026-05-18 10:15:55,837 | INFO | Failed files             : 0
+2026-05-18 10:15:55,837 | INFO | Output folder            : C:\Users\Md Ejaz Mallick\Desktop\docket_project\Stamped Docs
+2026-05-18 10:15:55,838 | INFO | Excel report             : C:\Users\Md Ejaz Mallick\Desktop\docket_project\reports\stamping_report.xlsx
+2026-05-18 10:15:55,838 | INFO | Processing completed successfully.
+2026-05-18 10:15:55,838 | INFO | ============================================================
